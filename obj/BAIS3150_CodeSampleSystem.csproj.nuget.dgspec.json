@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\msheikh11\\source\\repos\\BAIS3150_CodeSampleSystem\\BAIS3150_CodeSampleSystem.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\msheikh11\\source\\repos\\BAIS3150_CodeSampleSystem\\BAIS3150_CodeSampleSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\msheikh11\\source\\repos\\BAIS3150_CodeSampleSystem\\BAIS3150_CodeSampleSystem.csproj",
+        "projectName": "BAIS3150_CodeSampleSystem",
+        "projectPath": "C:\\Users\\msheikh11\\source\\repos\\BAIS3150_CodeSampleSystem\\BAIS3150_CodeSampleSystem.csproj",
+        "packagesPath": "C:\\Users\\msheikh11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\msheikh11\\source\\repos\\BAIS3150_CodeSampleSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\msheikh11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
