@@ -9,3 +9,13 @@ C:\Users\msheikh11\source\repos\BAIS3150_CodeSampleSystem\obj\Debug\netcoreapp2.
 C:\Users\msheikh11\source\repos\BAIS3150_CodeSampleSystem\obj\Debug\netcoreapp2.1\BAIS3150_CodeSampleSystem.AssemblyInfo.cs
 C:\Users\msheikh11\source\repos\BAIS3150_CodeSampleSystem\obj\Debug\netcoreapp2.1\BAIS3150_CodeSampleSystem.dll
 C:\Users\msheikh11\source\repos\BAIS3150_CodeSampleSystem\obj\Debug\netcoreapp2.1\BAIS3150_CodeSampleSystem.pdb
+C:\Users\mtshe\source\repos\SchoolProjects\bin\Debug\netcoreapp2.1\BAIS3150_CodeSampleSystem.deps.json
+C:\Users\mtshe\source\repos\SchoolProjects\bin\Debug\netcoreapp2.1\BAIS3150_CodeSampleSystem.runtimeconfig.json
+C:\Users\mtshe\source\repos\SchoolProjects\bin\Debug\netcoreapp2.1\BAIS3150_CodeSampleSystem.runtimeconfig.dev.json
+C:\Users\mtshe\source\repos\SchoolProjects\bin\Debug\netcoreapp2.1\BAIS3150_CodeSampleSystem.dll
+C:\Users\mtshe\source\repos\SchoolProjects\bin\Debug\netcoreapp2.1\BAIS3150_CodeSampleSystem.pdb
+C:\Users\mtshe\source\repos\SchoolProjects\obj\Debug\netcoreapp2.1\BAIS3150_CodeSampleSystem.csprojAssemblyReference.cache
+C:\Users\mtshe\source\repos\SchoolProjects\obj\Debug\netcoreapp2.1\BAIS3150_CodeSampleSystem.AssemblyInfoInputs.cache
+C:\Users\mtshe\source\repos\SchoolProjects\obj\Debug\netcoreapp2.1\BAIS3150_CodeSampleSystem.AssemblyInfo.cs
+C:\Users\mtshe\source\repos\SchoolProjects\obj\Debug\netcoreapp2.1\BAIS3150_CodeSampleSystem.dll
+C:\Users\mtshe\source\repos\SchoolProjects\obj\Debug\netcoreapp2.1\BAIS3150_CodeSampleSystem.pdb

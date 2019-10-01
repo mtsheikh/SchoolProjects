@@ -1233,23 +1233,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\msheikh11\\.nuget\\packages\\": {},
+    "C:\\Users\\mtshe\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msheikh11\\source\\repos\\BAIS3150_CodeSampleSystem\\BAIS3150_CodeSampleSystem.csproj",
+      "projectUniqueName": "C:\\Users\\mtshe\\source\\repos\\SchoolProjects\\BAIS3150_CodeSampleSystem.csproj",
       "projectName": "BAIS3150_CodeSampleSystem",
-      "projectPath": "C:\\Users\\msheikh11\\source\\repos\\BAIS3150_CodeSampleSystem\\BAIS3150_CodeSampleSystem.csproj",
-      "packagesPath": "C:\\Users\\msheikh11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msheikh11\\source\\repos\\BAIS3150_CodeSampleSystem\\obj\\",
+      "projectPath": "C:\\Users\\mtshe\\source\\repos\\SchoolProjects\\BAIS3150_CodeSampleSystem.csproj",
+      "packagesPath": "C:\\Users\\mtshe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mtshe\\source\\repos\\SchoolProjects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\msheikh11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mtshe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1274,6 +1274,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
@@ -1284,10 +1285,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
